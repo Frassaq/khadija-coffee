@@ -1,0 +1,20 @@
+
+body{
+   
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Image/6f36329b44f373d248d6631d76d55477.jpg);
+    
+}
+nav{
+    flex: 1;
+    text-align: right;
+  }
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 60px;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+  }
